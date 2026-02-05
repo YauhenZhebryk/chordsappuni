@@ -10,9 +10,6 @@ A minimalist and beautiful Flutter application for learning basic guitar chords.
 *   **Clean UI**: A modern, minimalist design with a focus on usability and aesthetics.
 *   **Filter**: Easily filter between "All", "Major", and "Minor" chords.
 
-## Screenshots 📱
-
-*(You can add screenshots here later)*
 
 ## Tech Stack 🛠️
 
@@ -50,4 +47,3 @@ A minimalist and beautiful Flutter application for learning basic guitar chords.
 *   `assets/`: Contains audio files and images.
 
 ---
-Made with ❤️ using Flutter
